@@ -1,7 +1,5 @@
 # Hi there, I am Amaan khan 👋
 
-
-
 ****
 ![Github Profile Views](https://komarev.com/ghpvc/?username=khan2810&color=00FF00) 
 ![GitHub Followers](https://img.shields.io/github/followers/khan2810?label=Followers&color=00FF00)
@@ -11,7 +9,7 @@
 <p align="center">
   <a target=_blank href="mailto:aakashrajak02@gmail.com"><img height = 50 width = 50 src="images/mail1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://www.linkedin.com/in/akash-rajak-akash435/"><img height = 50 width = 50 src="images/linkedin.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target=_blank href="https://www.hackerrank.com/aakashrajak02"><img height = 50 width = 50 src="images/hackerrank1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a target=_blank href="https://www.hackerrank.com/aakashrajak02"><img height = 50 width = 50 src="images/hackerrank1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a target=_blank href="https://www.codechef.com/users/akash435"><img height = 50 width = 50 src="images/codechef1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://codeforces.com/profile/aakashrajak02"><img height = 50 width = 50 src="images/codeforces1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target=_blank href="https://leetcode.com/akash435/"><img height = 50 width = 50 src="images/leetcode.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
