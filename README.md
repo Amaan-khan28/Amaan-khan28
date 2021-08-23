@@ -78,7 +78,7 @@ Password-Strength-Predictor
   <img width = 750 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan2810&langs_count=30&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell&show_icons=true&locale=en&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFF00&bg_color=000000" alt="khan2810" />
 
 <p align = "center">
-  <img width = 750 src="https://github-readme-streak-stats.herokuapp.com/?user=akash435&theme=chartreuse-dark" />
+  <img width = 750 src="https://github-readme-streak-stats.herokuapp.com/?user=khan2810&theme=chartreuse-dark" />
 </p>
 
 ****
