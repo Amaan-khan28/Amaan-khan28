@@ -13,7 +13,7 @@
   <a href="https://www.codechef.com/users/khan8446" target="_blank"><img height = 50 width = 50 src="images/codechef1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/khan2810" target="_blank"><img height = 50 width = 50 src="images/codeforces1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://leetcode.com/khan2810/"><img height = 50 width = 50 src="images/leetcode.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100014950783531"><img height = 50 width = 50 src="images/facebook.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a target="_blank" href="https://www.facebook.com/profile.php?id=100014950783531"><img height = 50 width = 50 src="images/facebook.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.instagram.com/khan_unofficial/" target="_blank"><img height = 50 width = 50 src="images/instagram.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://twitter.com/akash_ramanand" target="_blank"><img height = 50 width = 50 src="images/twitter1.jpeg" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
